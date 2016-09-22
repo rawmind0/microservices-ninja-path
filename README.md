@@ -6,6 +6,7 @@ El tutorial ira progresivamente mostrando como ocurre la evolución desde una ap
 
 ## Día 1. Bounded contexts
 
+*  Presentación. En que consiste el tutorial 
 
 ## Día 2. Docker
 
