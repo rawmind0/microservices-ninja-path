@@ -26,28 +26,53 @@ El objetivo de este primer día es generar una propuesta de como se puede dividi
 
 ### Materiales 
 
+* Repositorio git con el código fuente del monolito
+* Máquina virtual, con todo lo necesario para ejecutar la aplicación.
+
 ## Día 2. Docker
 
 El objetivo del día 2 será conseguir empaquetar en un contenedor uno de los microservicios para su posterior despliegue en producción.
 
-* 
+* ¿Que es DevOps?
+* ¿Cómo operar un contenedor docker?
+* Ejercicio práctico: A partir de la plantilla poder crear un servicio en local. 
 
+### Materiales 
+
+* Plantilla de docker para poder incluir el código del microservicio.
 
 ## Día 3. Continuous delivery
 
-El objetivo del día 3 
+El objetivo del día 3 será poner el servicio en producción usando despliegue automatizado.
 
 * ¿Que es Continuous Delivery?
 * Presentación de la herramienta de CD.
 * Anatomía de un pipeline.
-* Ejercicio practico. El servicio en producción.
+* Ejercicio práctico. El servicio en producción.
  * Clonar el pipeline.
  * Cambiar el sistema de control de versiones.
  * Añadir un nuevo stage para despliegue en producción.
 
+### Materiales 
+
+* Pipeline base que despliegue uno de las microservicios de la app
+* Entorno con la herramienta de continuous delivery preparada para poder trabajar
+* Rancher instalado en open stack con dos entornos uno de pre y otro de pro para poder desplegar el contenedor.
+
+
 ## Día 4. 
 
+El objetivo del día 4 es demostrar como se opera un servicio en producción
+
+### Materiales 
+
+* 
 
 ## Día 5. Kubernetes
 
 *  Conclusiones del tutorial
+
+### Materiales 
+
+* 
+
