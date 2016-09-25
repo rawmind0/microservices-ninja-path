@@ -1,17 +1,14 @@
 # microservices-ninja-path
 
-El objetivo de este tutorial es demostrar ...
-
 El tutorial ira progresivamente mostrando como ocurre la evolución desde una aplicación desde un monolito hasta una arquitectura de microservicios. Es un tutorial práctico. La duración del mismo es de cinco días.
 
 # Requisitos previos
 
-
-
+* Conocimientos del sistema de control de versiones git 
 
 # Planificación
 
-Esta es la planificación de contenido tentativa. Pensamos que la duración ideal son 5 días, entre 2 y 3 horas.
+Esta es la planificación de contenido tentativa. Pensamos que la duración ideal son 5 días, entre 2 y 3 horas cada día.
 
 ## Día 1. Bounded contexts
 
@@ -28,8 +25,14 @@ El objetivo de este primer día es generar una propuesta de como se puede dividi
 
 ## Día 2. Docker
 
+* 
+
 
 ## Día 3. Continuous delivery
+
+* 
+* Presentación de la herramienta de CD
+* Anatomía de un pipeline
 
 
 ## Día 4. 
