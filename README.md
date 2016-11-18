@@ -1,9 +1,10 @@
 # microservices-ninja-path
 
+[Spanish](https://github.com/rawmind0/microservices-ninja-path/tree/master/spanish)
+
 * Tutorial de iniciación a arquitecturas de microservicios.
 
-[Spanish](https://github.com/rawmind0/microservices-ninja-path/tree/master/spanish)
+[English](https://github.com/rawmind0/microservices-ninja-path/tree/master/english)
 
 * Initiation tutorial about microservices architectures.
 
-[English](https://github.com/rawmind0/microservices-ninja-path/tree/master/english)
