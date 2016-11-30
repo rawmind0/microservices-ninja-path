@@ -29,16 +29,20 @@ El objetivo de este primer día es generar una propuesta de como se puede dividi
 * Repositorio git con el código fuente del monolito
 * Máquina virtual, con todo lo necesario para ejecutar la aplicación.
 
-## Día 2. Docker
+## Día 2. Contenedores
 
 El objetivo del día 2 será conseguir empaquetar en un contenedor uno de los microservicios para su posterior despliegue en producción.
 
-* ¿Que es DevOps?
-* ¿Cómo operar un contenedor docker?
-* Ejercicio práctico: A partir de la plantilla poder crear un servicio en local. 
+* ¿Qué es un contenedor?
+* ¿Qué es docker?
+  * Registry.
+  * Redes y almacenamiento.
+  * Tareas básicas: crear, arrancar, parar, borrar...
+* Ejercicio práctico: A partir de la plantilla, crear un contenedor para el servicio. 
 
 ### Materiales 
 
+* Usuario github y dockerhub.
 * Plantilla de docker para poder incluir el código del microservicio.
 
 ## Day 3. Plataforma de contenedores
@@ -46,9 +50,9 @@ El objetivo del día 2 será conseguir empaquetar en un contenedor uno de los mi
 El objetivo del día 3 será entender que es una plataforma de contenedores y sus componentes.
 
 * Qué es una plataforma de contenedores?
-  * Container scheduler?
-  * system discovery?
-  * Load balancer?
+  * Container scheduler.
+  * system discovery.
+  * Load balancer.
 * Qué es Rancher? 
 * Ejercicio práctico. 
   * Lanzar un servicio en la plataforma de contenedores.

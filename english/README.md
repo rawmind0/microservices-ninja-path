@@ -28,18 +28,22 @@ The target of the day 1 will be understand and generate a proposal of how to spl
 * Git repo with the source code of the monolith.
 * VM, prepared to run the aplication.
 
+
 ## Day 2. Containers
 
 The target of day 2 will be create and generate a docker container for one of the microservices.
 
-* What is a docker container?
-* What is a DevOps?
-* How to create a docker container?
+* What is a container?
+* What is docker?
+  * Registry.
+  * Network and storage.
+  * Basic tasks: create, start, stop, delete...
 * Practical exercise: From a docker template, create a docker container for one of the microservices. 
 * Conclusions.
 
 ### Materials 
 
+* Github and dockerhub user.
 * Docker template to be able to include a microservice code.
 
 ## Day 3. Container platform
