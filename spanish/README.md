@@ -1,17 +1,35 @@
-# microservices-ninja-path
+# Getting started with microservices
 
-El tutorial ira progresivamente mostrando como ocurre la evolución desde una aplicación desde un monolito hasta una arquitectura de microservicios. Es un tutorial práctico. La duración del mismo es de cinco días.
+El tutorial ira progresivamente mostrando como ocurre la evolución desde una pequeña aplicación monolítica hasta una arquitectura de microservicios.
+
+Es un tutorial práctico. La práctica será una guiada.
+
+La duración del mismo es de tres días.
+
+# Público objetivo
+
+Cualquier persona que tenga intención de introducirse en el mundo de los microservicios.
 
 # Requisitos previos
 
-* Conocimientos del sistema de control de versiones git
-* Conocimientos del lenguaje de programación java
+* Conocimientos del sistema de control de versiones git.
+* Conocimientos del lenguaje de programación java.
+* Tener una cuenta de github para subir el código.
+* Tener una cuenta de dockerhub para subir los contenedores.
+
+# Nivel de curso
+
+Básico, consiste en visión general de como se desarrolla y despliega en el mundo de los microservicios.
+
+# Aforo
+
+Entre 40 y 64 personas máximo. Se formarán grupos de 4 personas entre los asistentes para poder realizar las actividades prácticas. Si no hay 20 personas apuntadas una semana antés de la celebración del curso este se cancelara.
 
 # Planificación
 
 Esta es la planificación de contenido tentativa. Pensamos que la duración ideal son 5 días, entre 2 y 3 horas cada día.
 
-## Día 1. Bounded contexts
+## Lección 1.
 
 El objetivo de este primer día es generar una propuesta de como se puede dividir el sistema en microservicios y una estrategía para hacerlo.
 
